@@ -1,0 +1,3 @@
+Day 2: Code is not particularly clean, work on fixing this
+Day 3: Some particularly lasty code on part 2
+Day 4: Try a grid system that tracks number of neighbors not roll state. This will be more efficient.
